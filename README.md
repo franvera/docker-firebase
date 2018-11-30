@@ -12,8 +12,8 @@ systems.
 
 ### Base Image
 
-- [node (dubnium)](https://hub.docker.com/r/library/node/) - The latest Node
-  LTS (currently Dubnium) image
+- [node (latest)](https://hub.docker.com/r/library/node/) - The latest Node
+  image
 
 ### Additional Node Modules
 
