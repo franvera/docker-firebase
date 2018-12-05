@@ -1,5 +1,5 @@
-# use latest Node
-FROM node:latest
+# use Node 10
+FROM node:10
 
 # set user to avoid permission issues
 # (see https://github.com/nodejs/node-gyp/issues/1236)

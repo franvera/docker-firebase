@@ -12,7 +12,7 @@ systems.
 
 ### Base Image
 
-- [node (latest)](https://hub.docker.com/r/library/node/) - The latest Node
+- [node (10)](https://hub.docker.com/r/library/node/) - The latest Node 10
   image
 
 ### Additional Node Modules
